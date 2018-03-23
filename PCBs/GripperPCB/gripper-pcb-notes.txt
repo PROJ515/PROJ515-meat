@@ -1,0 +1,19 @@
+3mm white LED
+•	Forward voltage of 3.3V and a forward current of 30mA (assumed)
+Will drive in parallel
+
+5vs 
+
+(5 - 3.3)/0.03 = 56 ohm
+
+total current = 0.03*4 = 120mA
+
+
+driver for 4 LEDs
+breakout for micro
+servo breakout (8 servos)
+teensy (prolly 3.2)
+bbreakout for remaining ADCs, DACs, maybe comms etc...
+small rectangular footprint (1:2)
+current sensor x4
+
